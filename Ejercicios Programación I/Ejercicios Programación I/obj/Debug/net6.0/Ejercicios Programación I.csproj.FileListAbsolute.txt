@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Programacion I -- 2023\Ejercicios Programación I\Ejercicios Programación I\bin\Debug\net6.0\Ejercicios Programación I.exe
+C:\Users\DELL\Desktop\Programacion I -- 2023\Ejercicios Programación I\Ejercicios Programación I\bin\Debug\net6.0\Ejercicios Programación I.deps.json
+C:\Users\DELL\Desktop\Programacion I -- 2023\Ejercicios Programación I\Ejercicios Programación I\bin\Debug\net6.0\Ejercicios Programación I.runtimeconfig.json
+C:\Users\DELL\Desktop\Programacion I -- 2023\Ejercicios Programación I\Ejercicios Programación I\bin\Debug\net6.0\Ejercicios Programación I.dll
+C:\Users\DELL\Desktop\Programacion I -- 2023\Ejercicios Programación I\Ejercicios Programación I\bin\Debug\net6.0\Ejercicios Programación I.pdb
+C:\Users\DELL\Desktop\Programacion I -- 2023\Ejercicios Programación I\Ejercicios Programación I\obj\Debug\net6.0\Ejercicios Programación I.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Programacion I -- 2023\Ejercicios Programación I\Ejercicios Programación I\obj\Debug\net6.0\Ejercicios Programación I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Programacion I -- 2023\Ejercicios Programación I\Ejercicios Programación I\obj\Debug\net6.0\Ejercicios Programación I.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Programacion I -- 2023\Ejercicios Programación I\Ejercicios Programación I\obj\Debug\net6.0\Ejercicios Programación I.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Programacion I -- 2023\Ejercicios Programación I\Ejercicios Programación I\obj\Debug\net6.0\Ejercicios Programación I.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Programacion I -- 2023\Ejercicios Programación I\Ejercicios Programación I\obj\Debug\net6.0\Ejercicios Programación I.dll
+C:\Users\DELL\Desktop\Programacion I -- 2023\Ejercicios Programación I\Ejercicios Programación I\obj\Debug\net6.0\refint\Ejercicios Programación I.dll
+C:\Users\DELL\Desktop\Programacion I -- 2023\Ejercicios Programación I\Ejercicios Programación I\obj\Debug\net6.0\Ejercicios Programación I.pdb
+C:\Users\DELL\Desktop\Programacion I -- 2023\Ejercicios Programación I\Ejercicios Programación I\obj\Debug\net6.0\Ejercicios Programación I.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Programacion I -- 2023\Ejercicios Programación I\Ejercicios Programación I\obj\Debug\net6.0\ref\Ejercicios Programación I.dll
